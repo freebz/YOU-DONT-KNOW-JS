@@ -1,0 +1,4 @@
+var myObj = {
+    key: value
+    // ...
+};
