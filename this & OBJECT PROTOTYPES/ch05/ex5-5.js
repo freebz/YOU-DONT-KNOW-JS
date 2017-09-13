@@ -1,0 +1,5 @@
+function Foo() {
+    // ...
+}
+
+Foo.prototype; // { }
