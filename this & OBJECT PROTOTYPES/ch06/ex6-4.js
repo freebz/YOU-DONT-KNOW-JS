@@ -1,0 +1,5 @@
+function Foo() {}
+var a1 = new Foo();
+
+a1.constructor;		// Foo {}
+a1.constructor.name;    // "Foo"
